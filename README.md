@@ -31,5 +31,6 @@ Quick Notes sports a clean and calming aesthetic:
 *   **Icons:** Simple, minimalist icons are used for tag display and actions.
 *   **Layout:** A clean, single-column layout ensures easy readability.
 
-
+## To view the project click the link: 
+https://note-app-chi-steel.vercel.app
 
